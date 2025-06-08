@@ -68,13 +68,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-![Heatmap](screenshots/heatmap.png)
-![Backtest](screenshots/backtest.png)
-
----
-
 ## 📈 Example Insights
 
 - Crude oil tends to **perform better during summer months**.
@@ -92,10 +85,6 @@ streamlit run app.py
 
 ## 📬 Connect
 
-If you found this useful, feel free to ⭐️ the repo, open an issue, or connect with me on [LinkedIn](https://www.linkedin.com/in/ayushgoel02/).
+If you found this useful, feel free to ⭐️ the repo, open an issue, or connect with me on [LinkedIn](https://www.linkedin.com/in/ayushhg/).
 
----
 
-## 📃 License
-
-This project is licensed under the MIT License.
